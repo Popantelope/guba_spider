@@ -1,6 +1,6 @@
 # guba_spider
 股吧评论爬虫
-基于seelnium库，使用时需要根据自己电脑chrome浏览器版本下载对应的chromedriver，并在代码中更改你的chromedriver的位置
+基于selenium库，使用时需要根据自己电脑chrome浏览器版本下载对应的chromedriver，并在代码中更改你的chromedriver的位置
 
 guba_spyder.py --单线程爬虫
 
